@@ -1,0 +1,3 @@
+O perimetro do triangulo e: 12
+A hipotenusa do triângulo e: 5
+A area do triangulo e: 6
